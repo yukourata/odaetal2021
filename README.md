@@ -1,10 +1,10 @@
 # odaetal2021
 
 ## Notice Regarding Editorial Expression of Concern (EoC)
-The article Oda et al., 2021, related to this repository, has been issued an Editorial Expression of Concern (EoC) by Science Advances on 17 November 2021.
+The article Oda et al., 2021, related to this repository, has been issued an Editorial Expression of Concern (EoC) by Science Advances on 13 August 2025.
 The content of the EoC is as follows:
 
->On 17 November 2021, Science Advances published the Research Article “Discovery of anti-inflammatory physiological peptides that promote tissue repair by reinforcing epithelial barrier formation,” by Oda et al. The authors informed the journal of an institutional investigation related to the experimental conditions used for Figure 2B. We are notifying readers while the institution reviews these issues.
+>On 17 November 2021, Science Advances published the Research Article “Discovery of anti-inflammatory physiological peptides that promote tissue repair by reinforcing epithelial barrier formation” by Y. Oda et al. (1). The authors informed the journal of an institutional investigation related to the experimental conditions used for Fig. 2B. We are notifying readers while the institution reviews these issues.
 
 The first and corresponding author has informed the journal that the paper is currently under institutional investigation.
 
