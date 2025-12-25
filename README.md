@@ -1,4 +1,7 @@
 # odaetal2021
+## Repository Update Notice (12/25/2025 Updated)
+Some files were re-uploaded on 2025-12-25 to remove local file path information.
+The data content remains unchanged.
 
 ## Notice Regarding Editorial Expression of Concern (EoC) (8/22/2025 Updated)
 The article Oda et al., 2021, related to this repository, has been issued an Editorial Expression of Concern (EoC) by Science Advances on 13 August 2025.
